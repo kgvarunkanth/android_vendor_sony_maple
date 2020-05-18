@@ -18,7 +18,6 @@
 
 soong_namespace {
 }
-
 // -------- ADDED CAMERA ----------- //
 
 android_app_import {
