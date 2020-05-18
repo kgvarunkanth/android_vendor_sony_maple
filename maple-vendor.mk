@@ -619,6 +619,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/maple/proprietary/priv-app/SoundPhotoCamera-xhdpi-release/lib/armeabi/libmpo.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/SoundPhotoCamera-xhdpi-release/lib/armeabi/libmpo.so \
     vendor/sony/maple/proprietary/priv-app/SoundPhotoCamera-xhdpi-release/lib/armeabi/libnativebytebuffer.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/SoundPhotoCamera-xhdpi-release/lib/armeabi/libnativebytebuffer.so \
     vendor/sony/maple/proprietary/priv-app/SoundPhotoCamera-xhdpi-release/lib/armeabi/libspf.so:$(TARGET_COPY_OUT_SYSTEM)/priv-app/SoundPhotoCamera-xhdpi-release/lib/armeabi/libspf.so \
+	vendor/sony/maple/proprietary/lib64/libimageprocessorjni.so:$(TARGET_COPY_OUT_SYSTEM)/lib64/libimageprocessorjni.so \
+	vendor/sony/maple/proprietary/lib/libimageprocessorjni.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libimageprocessorjni.so \
 	vendor/sony/maple/proprietary/vendor/sony/touch/images/big_touch.png:$(TARGET_COPY_OUT_VENDOR)/sony/touch/images/big_touch.png \
     vendor/sony/maple/proprietary/vendor/sony/touch/images/splash.png:$(TARGET_COPY_OUT_VENDOR)/sony/touch/images/splash.png
 
